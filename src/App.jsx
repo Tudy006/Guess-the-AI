@@ -21,11 +21,11 @@ function App() {
   ];
   const models = ["Gemini", "ChatGPT", "Claude", "Deepseek"];
   const logoMap = {
-    Gemini: "/gemini.jpg", // Ensure these extensions match your files
-    ChatGPT: "/chatgpt.jpg",
-    Claude: "/claude.jpg",
+    Gemini: "gemini.jpg", // Ensure these extensions match your files
+    ChatGPT: "chatgpt.jpg",
+    Claude: "claude.jpg",
     // Grok: "/grok.png",
-    Deepseek: "/deepseek.png",
+    Deepseek: "deepseek.png",
   };
 
   // Helper to get a random question based on category
