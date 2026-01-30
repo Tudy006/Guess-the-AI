@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "prompt": "Explain recursion in one sentence.",
+    "response": "Recursion is a process where a function calls itself directly or indirectly to solve a problem by breaking it down into smaller instances.",
+    "model": "ChatGPT",
+    "category": "programming",
+    "options": ["Gemini", "ChatGPT", "Claude", "Grok", "Deepseek"]
+  },
+  {
+    "id": 2,
+    "prompt": "What is the capital of France?",
+    "response": "The capital of France is Paris.",
+    "model": "Gemini",
+    "category": "geography",
+    "options": ["Gemini", "ChatGPT", "Claude", "Grok", "Deepseek"]
+  }
+]
