@@ -108,6 +108,66 @@ export const questions = [
     category: "Science & Physics",
     prompt: "Simply and briefly explain what the 'God Particle' is.",
   },
+  {
+    id: 21,
+    category: "Science & Physics",
+    prompt:
+      "If the Earth is spinning so fast, why can't I just jump in the air and land in a different city?",
+  },
+  {
+    id: 22,
+    category: "Science & Physics",
+    prompt:
+      "If space is a vacuum with no air, how do rockets have anything to 'push' against to move forward?",
+  },
+  {
+    id: 23,
+    category: "Science & Physics",
+    prompt:
+      "Why does time move slower for astronauts in space? Is it a hardware glitch or a real physical change?",
+  },
+  {
+    id: 24,
+    category: "Science & Physics",
+    prompt:
+      "How can a solid magnet push another magnet away without even touching it? What is actually in the gap?",
+  },
+  {
+    id: 25,
+    category: "Science & Physics",
+    prompt:
+      "If nothing can travel faster than light, how did the universe get so big so quickly after the Big Bang?",
+  },
+  {
+    id: 26,
+    category: "Science & Physics",
+    prompt:
+      "How does a heavy metal airplane stay in the air when it doesn't even have to flap its wings?",
+  },
+  {
+    id: 27,
+    category: "Science & Physics",
+    prompt:
+      "If I drop a bowling ball and a feather in a vacuum, why do they land at the same time? It feels wrong.",
+  },
+  {
+    id: 28,
+    category: "Science & Physics",
+    prompt:
+      "If we are made of atoms, and atoms are mostly empty space, why don't we just pass through each other like ghosts?",
+  },
+  {
+    id: 29,
+    category: "Science & Physics",
+    prompt:
+      "Why is the center of the Earth still molten hot after billions of years? Shouldn't it have cooled down by now?",
+  },
+  {
+    id: 30,
+    category: "Science & Physics",
+    prompt:
+      "Why can I see through a glass window but not through the wooden wall right next to it?",
+  },
 
   // =================================================================
   // 3. POLITICS & ETHICS
