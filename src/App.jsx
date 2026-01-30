@@ -104,7 +104,7 @@ function App() {
               <div className="flex-1 flex flex-col gap-6 justify-center">
                 {/* User Prompt (Right) */}
                 <div className="flex justify-end max-w-full">
-                  <div className="bg-blue-600 text-white px-6 py-4 rounded-3xl rounded-tr-sm shadow-md max-w-[85%] text-lg leading-relaxed">
+                  <div className="bg-blue-600 text-white px-6 py-4 rounded-3xl rounded-tr-sm shadow-md max-w-[85%] text-lg leading-relaxed text-left">
                     {currentItem?.prompt}
                   </div>
                 </div>
